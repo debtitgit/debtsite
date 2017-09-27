@@ -1,0 +1,5 @@
+psql --host=<myserver> --port=<port> --username=<server admin login> --dbname=<database name>
+psql --host=finvisor.postgres.database.azure.com --port=5432 --username=postgres@finvisor --dbname=postgres
+
+
+jdbc:postgresql://finvisor.postgres.database.azure.com:5432/{your_database}?user=postgres@finvisor&password={your_password}&ssl=true

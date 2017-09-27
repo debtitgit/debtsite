@@ -1,0 +1,15 @@
+<svg width="133" height="133" xmlns="http://www.w3.org/2000/svg">
+ <g class="text_1">
+  <circle cx="66.63734" cy="65.88381" r="60" stroke="#808080" stroke-width="0" fill="none" id="circle"/>
+ 
+  <circle id="" stroke-dasharray="50" cx="66" cy="66" r="60" stroke="#cf1d2b" stroke-width="10" fill="#fff" id="circle_1">
+		<animateTransform attributeName="transform"
+				type="rotate"
+				from="0 66 66" to="360 66 66"
+				begin="0s" dur="2s"
+				repeatCount="indefinite"
+			/>
+  </circle>
+  <path stroke="null" d="m57.12363,72.22332l0,-31.77671c50.90988,-8.49605 41.58297,55.85765 6.87856,51.42953c-11.41317,-1.06769 -20.4589,-11.3351 -23.40232,-22.35616c36.88867,45.93245 64.33829,-23.43158 22.21682,-20.283l-0.04628,19.74211l-5.64678,3.24423z" id="path21" stroke-width="0.26458px" fill="#cf1d2b"/>
+ </g>
+</svg>

@@ -1,0 +1,113 @@
+/* ipad pro */
+@media screen and (max-width:1030px){
+	.solution_img {
+		height: 400px;
+	}
+	.services_img {
+		height: 500px;
+	}
+}
+/* ipad mini */
+@media screen and (max-width:800px){
+	#home-slider .caption{
+		    height: 315px;top: 40%;
+	}
+	.video{
+	    top: 37%;
+	}
+	#home-slider .item{
+	    height: 750px !important;
+	}
+	#toservices {
+	    bottom: 55px;
+	}
+	#about-us{
+		margin-top:0px;padding: 40px 0;
+	}
+	.width50.video_xs{
+		padding-top: 20px;
+	}
+	.video_xs video{
+	    height: 480px;
+	}
+	.member-info h3{
+		font-size: 21px;
+	}
+	.member-info h4{
+		font-size: 13px;
+	}
+	.member-info p {
+		font-size: 12px;
+	}
+	.social-icons {
+		margin-top: 20px;
+	}
+	.team-members .col-sm-3{
+	    padding-left: 12px;
+	    padding-right: 12px;
+	}
+	.social-icons ul li a{
+		height: 26px;
+		width: 26px;
+		line-height: 26px;
+	}
+	#team{
+		padding-bottom:10px;
+	}
+	#features i{
+		font-size: 30px;
+	}
+	#features h3{
+		font-size: 22px;
+	}
+	#features p {
+		font-size: 11px;
+	}
+	.solution_img {
+		height: 400px;
+	}
+	.services_img {
+		height: 500px;
+	}
+	.feed_back_text {
+	    width: 61%;top: -10px;
+	}
+	.con_btn{
+	    margin-left: 70px;
+	}
+	.contact-info ul li{
+		width:100%;
+	}
+	.contact-info ul .mobhide{
+	    padding-top: 15px;
+	}
+	.footer-top{
+		height: 300px;
+	}
+	#footer .social-icons{
+		margin-top:0px;
+	}
+	.footer-top{
+		height: 100px;
+	}
+	#footer .footer-bottom{
+		padding:0px;
+	    height: 200px;
+		width: 100%;
+	}
+	#contact-us .frontdiv{
+	    margin: 0px;
+	}
+	#contact-us .bacdiv_1{
+	    padding-top: 15px;
+	}
+	#contact-us .heading{
+		padding-bottom: 10px !important;
+	}
+}
+/* ipad */
+@media screen and (max-width:770px){
+	#footer .footer-bottom{
+		height: auto;
+	}
+}

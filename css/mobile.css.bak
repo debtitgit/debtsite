@@ -1,0 +1,173 @@
+@media screen and (max-width: 530px){
+	.tab_menu{ display:none; }
+	.enquirybtn{
+		background-image: none;
+		background: #1078b7;
+		border: 1px solid #1078b7;
+		border-radius: 0 !important;
+		font-family: 'open-sans-regular';
+		font-weight: 400;
+		width:120px;
+
+	}
+	#toservices {
+		bottom: 250px;
+	}
+	.loginbtn{width:50px;}
+	.cnt_app{width:50%;}
+	.app_img.app_img{    margin-right: 5px;}
+	.service_left{ margin-top:50px; }
+	.service_left .service_left_content h3{ font-size: 16px;margin-bottom: 10px !important; }
+	.enquirybtn:hover{box-shadow: 0 0 0 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+	.Loan_Enquiry_mobile {
+		margin-top: 2px;
+		border-radius: 4px;
+		text-align: center;
+	}
+	.enqmobbtn{color:#fff;margin-top: 8px;font-size: 12px;}
+	.srchaplction_mob{     background-image: url(../images/search.svg) !important;  background-size: 100% 100%;
+		width: 20px;
+		background-position: 0px; }
+	.mobile_subheader .Loan_Enquiry_mobile_link {
+		 margin-left: 60px;
+	}
+	.img_menu {
+		padding-top: 14px;
+		width: 33%;
+	}
+	.row{margin-right: 0px;margin-left: 0px;}
+	#header{ background:#fff;z-index:2147483647;position: fixed;
+    top: 0; }  
+	.mobile_menu_container{ top:85px; }
+
+	.mobile_ply_btn{ position:relative; }
+	.mobile_ply_btn .OverlayIcon_playsml{ position:absolute;top:0;left:0;right:0;bottom:50px;margin:auto; }
+	.video_xs video{ height: auto;  }
+	#about-us {
+		margin-top: 30px;
+		padding: 0px 0;
+	}
+	.back {
+		background: rgba(0, 0, 0, 0.19);
+		width: 100%;
+		margin-left: 0;
+		height: 100%;
+	}
+	.mobile_subheader .location_mobile_link {
+		margin: 6px auto;
+		margin-left: 3px;
+	}
+	.Loan_Enquiry_mobile {
+		padding: 5px;
+	}
+	.feed_back_text{ display:none; }
+	.send_now{ text-align: center; width: 30%; display: block; margin: 0px auto; }
+	.con_btn {
+		 margin-right: 0;
+		float: left;
+	}
+	.con_btn {
+		 margin-left: 0;    width: 100%;
+	}
+	.banner_slider .carousel-inner{height:400px;}
+	#home-slider .item{height:400px;}
+	#home-slider{ top: 35px; height: 270px;}
+	#home-slider .caption {
+		height: 230px;
+		top: 0%;
+	}
+	.about_content{padding:5px;}
+	.our_service {
+		width: 100% !important;
+		padding: 0 !important;
+		margin-top: 100px !important;
+	}
+	footer-top {
+		height: 50px;
+	}
+	.Oval-3 {
+	width: 100%;
+		margin-left: 0px;
+		margin: 0;
+	}
+	.hoverred {padding-right:0px;}
+	.form-control1 {
+		font-size: 12px;width:100%;margin-left:0px;    padding: 16px 0;
+	}
+	#datepicker{width:100%;}
+	.enq_name_div,.enq_ph_div{padding:0px;}
+	.enq_ph_div input{margin-top:0px;}
+	button.btnenquire1.clsmdl{width: 90px;}
+}
+.form_right input{font-weight:normal;}
+@media screen and (max-width:480px){
+
+.enquirybtn{    font-weight: bold;font-size: 11px;}
+.form_right h2{text-align:center;}
+.e_name{margin-top:12px !important;}
+.popup_main{    top: 62px;}
+.form_right input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #19213a !important;
+}
+.form_right input::-moz-placeholder { /* Firefox 19+ */
+  color: #19213a !important;
+}
+.form_right input:-ms-input-placeholder { /* IE 10+ */
+  color: #19213a !important;
+}
+.form_right input:-moz-placeholder { /* Firefox 18- */
+  color:#19213a !important; 
+ }
+.form_right{background:#fff;padding: 23px !important;}
+.form_right h2{color:#19213a !important;}
+.form_right input{color:#19213a !important;border-bottom: 1px solid #19213a !important;}
+#services h3{float:none;}
+	.service_left, .servie_icon{ padding:0 !important; }
+	.service_left .service_left_content .servie_icon{ max-width:100%; text-align: center; width: 100%;    margin-bottom: 8px !important;  }
+	.service_left .service_left_content .servie_icon img{width: 30% !important;}
+	#services h2{ font-size: 22px; }
+	.service_left .service_left_content{ margin: 0px 0px; }
+	.service_left .service_left_content h3{ font-size: 13px;    font-weight: 600; }
+	.service_right { margin-top:20px; }
+}
+@media screen and (max-width:450px){
+	.menu_btn_menu{ margin-left: 15px; }
+	.service_left{ margin-top: 0px; }
+	.service_left .service_left_content .servie_icon img{ margin-bottom: 0px; }
+}
+@media screen and (max-width:420px){
+	.img_menu {
+    padding-top: 12px;
+        width: 10%;    position: fixed;
+    right: 15px;
+	}
+	.mobile_subheader .Loan_Enquiry_mobile_link{ margin-left: 30px; }
+	.menu_btn_menu{ margin-left: 0; }
+	.service_left .service_left_content .servie_icon img{ width: 50%; }
+}
+@media screen and (max-width:400px){
+	.mobile_subheader .Loan_Enquiry_mobile_link {
+		 margin-left: 40px;
+	}
+}
+@media screen and (max-width:380px){
+	.mobile_subheader .Loan_Enquiry_mobile_link {
+		 margin-left: 10px;
+	}
+	.enquirybtn{ width: 90px; }
+	.mobile_subheader .Loan_Enquiry_mobile_link{ margin-left: 35px; }
+
+	.send_now {
+		text-align: center;
+		width: 38%;
+		display: block;
+		margin: 0px auto;
+	}
+}
+@media screen and (max-width:360px){
+	.mobile_subheader .Loan_Enquiry_mobile_link {
+		margin-left: 20px;
+	}
+}
+
+   
